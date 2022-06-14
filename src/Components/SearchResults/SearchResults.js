@@ -9,7 +9,6 @@ export class SearchResults extends React.Component {
         <h2>Results</h2>
         <TrackList 
           isRemoval={false}
-          onRemove={this.props.onRemove} 
           onAdd={this.props.onAdd} 
           tracks={this.props.searchResults}/>
       </div>
