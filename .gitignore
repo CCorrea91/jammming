@@ -23,5 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # API
-/src/Components/util/
-Spotify.js
+src/Components/util/Spotify.js
